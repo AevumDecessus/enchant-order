@@ -539,8 +539,8 @@ var data = {
         "bow": "Bow",
         "shield": "Shield",
         "crossbow": "Crossbow",
-        "pickarang": "Pickarang"
-        "paxel": "Vault Paxel"
+        "pickarang": "Pickarang",
+        "paxel": "Vault Paxel",
 
         "fishing_rod": "Fishing Rod",
         "shears": "Shears",
