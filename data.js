@@ -37,7 +37,8 @@ var data = {
             ],
             "items": [
                 "sword",
-                "axe"
+                "axe",
+                "pickarang"
             ]
         },
         "Blast Protection": {
@@ -88,7 +89,8 @@ var data = {
                 "shovel",
                 "axe",
                 "hoe",
-                "shears"
+                "shears",
+                "pickarang"
             ]
         },
         "Feather Falling": {
@@ -147,7 +149,8 @@ var data = {
                 "pickaxe",
                 "shovel",
                 "axe",
-                "hoe"
+                "hoe",
+                "pickarang"
             ]
         },
         "Frost Walker": {
@@ -258,7 +261,8 @@ var data = {
                 "elytra",
                 "trident",
                 "turtle_shell",
-                "crossbow"
+                "crossbow",
+                "pickarang"
             ]
         },
         "Multishot": {
@@ -278,7 +282,8 @@ var data = {
                 "Multishot"
             ],
             "items": [
-                "crossbow"
+                "crossbow",
+                "pickarang"
             ]
         },
         "Power": {
@@ -358,7 +363,8 @@ var data = {
             ],
             "items": [
                 "sword",
-		"axe"
+		"axe",
+                "pickarang"
             ]
         },
         "Silk Touch": {
@@ -372,7 +378,8 @@ var data = {
                 "shovel",
                 "axe",
                 "hoe",
-                "shears-bedrock"
+                "shears-bedrock",
+                "pickarang"
             ]
         },
         "Smite": {
@@ -384,7 +391,8 @@ var data = {
             ],
             "items": [
                 "sword",
-                "axe"
+                "axe",
+                "pickarang"
             ]
         },
         "Soul Speed": {
@@ -448,7 +456,8 @@ var data = {
                 "elytra",
                 "trident",
                 "turtle_shell",
-                "crossbow"
+                "crossbow",
+                "pickarang"
             ]
         },
         "Curse of Binding": {
@@ -496,7 +505,8 @@ var data = {
                 "helmet",
                 "trident",
                 "turtle_shell",
-                "crossbow"
+                "crossbow",
+                "pickarang"
             ]
         }
     },
@@ -524,5 +534,6 @@ var data = {
         "compass": "Compass",
         "carrot_on_a_stick": "Carrot on a Stick",
         "warped_fungus_on_a_stick": "Warped Fungus on a Stick"
+        "pickarang": "Pickarang"
     }
 };
