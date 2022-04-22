@@ -38,7 +38,8 @@ var data = {
             "items": [
                 "sword",
                 "axe",
-                "pickarang"
+                "pickarang",
+                "paxel"
             ]
         },
         "Blast Protection": {
@@ -90,7 +91,8 @@ var data = {
                 "axe",
                 "hoe",
                 "shears",
-                "pickarang"
+                "pickarang",
+                "paxel"
             ]
         },
         "Feather Falling": {
@@ -110,7 +112,8 @@ var data = {
                 ""
             ],
             "items": [
-                "sword"
+                "sword",
+                "paxel"
             ]
         },
         "Fire Protection": {
@@ -150,7 +153,8 @@ var data = {
                 "shovel",
                 "axe",
                 "hoe",
-                "pickarang"
+                "pickarang",
+                "paxel"
             ]
         },
         "Frost Walker": {
@@ -190,7 +194,8 @@ var data = {
                 ""
             ],
             "items": [
-                "sword"
+                "sword",
+                "paxel"
             ]
         },
         "Looting": {
@@ -200,7 +205,8 @@ var data = {
                 ""
             ],
             "items": [
-                "sword"
+                "sword",
+                "paxel"
             ]
         },
         "Loyalty": {
@@ -364,7 +370,8 @@ var data = {
             "items": [
                 "sword",
 		"axe",
-                "pickarang"
+                "pickarang",
+                "paxel"
             ]
         },
         "Silk Touch": {
@@ -379,7 +386,8 @@ var data = {
                 "axe",
                 "hoe",
                 "shears-bedrock",
-                "pickarang"
+                "pickarang",
+                "paxel"
             ]
         },
         "Smite": {
@@ -392,7 +400,8 @@ var data = {
             "items": [
                 "sword",
                 "axe",
-                "pickarang"
+                "pickarang",
+                "paxel"
             ]
         },
         "Soul Speed": {
@@ -412,7 +421,8 @@ var data = {
                 ""
             ],
             "items": [
-                "sword"
+                "sword",
+                "paxel"
             ]
         },
         "Thorns": {
@@ -457,7 +467,8 @@ var data = {
                 "trident",
                 "turtle_shell",
                 "crossbow",
-                "pickarang"
+                "pickarang",
+                "paxel"
             ]
         },
         "Curse of Binding": {
@@ -506,7 +517,8 @@ var data = {
                 "trident",
                 "turtle_shell",
                 "crossbow",
-                "pickarang"
+                "pickarang",
+                "paxel"
             ]
         }
     },
@@ -527,6 +539,8 @@ var data = {
         "bow": "Bow",
         "shield": "Shield",
         "crossbow": "Crossbow",
+        "pickarang": "Pickarang"
+        "paxel": "Vault Paxel"
 
         "fishing_rod": "Fishing Rod",
         "shears": "Shears",
@@ -534,6 +548,5 @@ var data = {
         "compass": "Compass",
         "carrot_on_a_stick": "Carrot on a Stick",
         "warped_fungus_on_a_stick": "Warped Fungus on a Stick"
-        "pickarang": "Pickarang"
     }
 };
